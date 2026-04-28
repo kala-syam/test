@@ -1,0 +1,172 @@
+.format ul{
+    display: flex;
+    list-style-type: none;
+    gap: 55px;
+    margin-left: 90px;
+    font-style: italic;
+}
+.but button{
+    align-self: center;
+    border-radius: 12px;
+    height: 25px;
+    background-color: rgb(32, 229, 48);
+    margin-right: 15px;
+    padding: 5px;
+    font-style: italic;
+}
+.main img{
+     margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.syam h1{
+    background-color: aqua;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+.main{
+    display: flex;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.696);
+    /* margin-left: 75px; */
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;  
+}
+
+.studio{
+    text-align: center;
+    padding: 20px 20px;
+    margin-bottom: 10px;
+    margin-right: 35px;
+}
+.studio h2{
+    border-bottom: solid 3px rgba(0, 0, 0, 0.618);
+    margin: auto;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 5px;
+    font-style: italic;
+    
+}
+.studio p{
+    font-style: italic;
+    text-align: center;
+    align-items: center;
+}
+.syam2 img{
+    margin: 1px;
+    margin-left:55px ;
+}
+.gallery h3{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    border-bottom: solid 3px rgba(0, 0, 0, 0.618);
+    margin-left:650px;
+    margin-right: 650px;
+
+}
+.cards{
+    display: flex;
+}
+.offers{
+    text-align: center;
+    padding: 40px;
+    background: #f4f4f4;
+    display: flex;
+    margin: auto;
+    font-style: italic;
+}
+.offers boxcard{
+    display: flex;
+    justify-content: space-around;
+
+}
+.card{
+    background-color: white;
+    padding: 20px;
+    width: 250px;
+    border-radius: 250px;
+}
+.offers h2{
+    text-align: center;
+    font-style: italic;
+}
+.syam5 h2{
+    text-align: center;
+    padding: 40px;
+    font-style: italic;
+}
+.contact{
+    display: flex;
+    justify-content: space-around;
+    padding: 45px;
+    background-color: #eee;
+    font-style: italic;
+}
+.form input, form textarea{
+    margin-bottom: 5px;
+    width: 70%;
+    padding: 5px;
+    font-style: italic;
+}
+.form button{
+    padding: 19px;
+    font-style: italic;
+    
+}
+.footer ok{
+    text-align: center;
+    color: white;
+    background: #222;
+    padding: 15px;
+}
+.card button{
+    background-color: rgba(0, 0, 0, 0.774);
+    color: white;
+    margin: auto;
+    padding: 6px;
+    border-radius: 12px; 
+    font-style: italic;
+}
+.bye{
+    background-color: #222;
+    color: white;
+    padding: 5px;
+    margin-left: 589px;
+    font-style: italic;
+    border-radius: 10px;
+}
+.syam2 img{
+    border-radius: 10px;
+}
+.contact form{
+    padding-left: 238px;
+}
+.services{
+    background-color: #eee;
+    font-style: italic;
+}
+.xyz{
+    text-align: center;
+    font-size: 25px;
+    border-bottom: solid 2px;
+    /* margin: auto; */
+    padding: 5px;
+    margin-left: 650px;
+    margin-right: 650px;
+}
+.zxy{
+    text-align: center;
+    font-size: 18px;
+    
+}
+.santosh p{
+    font-size: 25px;
+    font-style: italic;
+    margin: 10px;
+}
+
